@@ -43,16 +43,7 @@
             <version>${slf4j.version}</version>
             <scope>provided</scope>
         </dependency>
-        <dependency>
-            <groupId>com.bazaarvoice.jolt</groupId>
-            <artifactId>jolt-core</artifactId>
-            <version>${latest.jolt.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>com.bazaarvoice.jolt</groupId>
-            <artifactId>json-utils</artifactId>
-            <version>${latest.jolt.version}</version>
-        </dependency>
+
         <!-- end -->
 
         <!-- Test Dependencies -->
