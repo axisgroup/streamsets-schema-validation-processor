@@ -19,7 +19,7 @@ You can add schemas directly to the processor, or you can load them from a resou
 [Example Pipeline - Click Here](etc/schema-validator-example-pipeline.json)
 
 
-For details on create schemas please refer to the following documentation: 
+For details on creating schemas please refer to the following documentation: 
 https://json-schema.org/learn/
 
 #### Other useful links
