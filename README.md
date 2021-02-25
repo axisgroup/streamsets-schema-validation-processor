@@ -4,9 +4,9 @@ The StreamSets Schema Validator can be used to define and enforce complex schema
 ### Installation 
 For convenience I've included the tarball in the pre_packaged directory, however you can use maven to build and package for yourself. 
 
-Copy the schema-validator-lib-xxx.tar.gz to the streamsets-datacollector-user-libs directory on your data collector and run the following commands
+Copy the schema-validator-lib-xxx.tar.gz to the streamsets-datacollector user-libs directory(may vary depending on your install) on your data collector and run the following commands
 ```
-sudo tar xvfz /opt/streamsets-datacollector-user-libs/jolt-transform-lib-1.0-SNAPSHOT.tar.gz -C /opt/streamsets-datacollector-user-libs/
+sudo tar xvfz /opt/streamsets-datacollector-user-libs/schema-validator-lib-1.0.tar.gz -C /opt/streamsets-datacollector-user-libs/
 # restart the sdc service after extracting the tarball
 
 ```
